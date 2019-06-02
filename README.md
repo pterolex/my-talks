@@ -16,7 +16,7 @@ TBD...
 
 # 2018
 
-## React Fiber
+## React Renderer for Your Smart Home
 
 **Description:**
 
@@ -33,14 +33,13 @@ Nowadays React.js can be used to render UIs in different environments (e.g. DOM,
 -----------------------------------------------------------------------------------------------------------------
 
 
-
 # 2017
 
 ## React Fiber
 
 **Description:**
 
-The talk shows a few insights on the new experimental algorithm of the creation and comparison of the so called Virtual DOM that will be delivered in the new version of React. 
+The talk shows a few insights on the new experimental reconsiliation algorithm of the creation and comparison of the Virtual DOM that will be delivered in the new version of React.
 
 **Presented at:** 
 
