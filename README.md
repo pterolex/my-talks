@@ -22,6 +22,8 @@ TBD...
 
 Nowadays React.js can be used to render UIs in different environments (e.g. DOM, mobile and terminal). Recent experiments revealed a possibility to control an Arduino board with React. In my talk, I will expand the device area and show an approach to control a few wirelessly connected IoT devices using a custom React renderer.
 
+Language: English
+
 **Presented at:** 
 
 * [React Kyiv May Meetup](https://www.meetup.com/Kyiv-ReactJS-Meetup/events/249699223/) Kyiv, May 21
@@ -39,11 +41,14 @@ Nowadays React.js can be used to render UIs in different environments (e.g. DOM,
 
 **Description:**
 
-The talk shows a few insights on the new experimental reconsiliation algorithm of the creation and comparison of the Virtual DOM that will be delivered in the new version of React.
+The talk shows a few insights on the new experimental reconciliation algorithm of the creation and comparison of the Virtual DOM that will be delivered in the new version of React.
+
+Language: Russian
 
 **Presented at:** 
 
 * [JSLab Conference](https://startup.odessa.ua/event/konferentsiya-js-lab) Odessa, March 25
+* [JS Frameworks and Tools meetup](https://dou.ua/calendar/14233/) Kyiv, March 2
 * [React Kyiv First Meetup](https://www.meetup.com/Kyiv-ReactJS-Meetup/events/235980716/) Kyiv, February 17
 
 **Content:**
